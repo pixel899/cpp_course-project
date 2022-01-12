@@ -1,0 +1,12 @@
+11
+train_info 1
+train_info 2
+train_info 3
+train_info 4
+train_info 5
+train_info 6
+train_info 7
+station_info St_1
+station_info St_2
+station_info St_3
+station_info St_4

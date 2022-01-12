@@ -1,0 +1,7 @@
+﻿  drawing_tree.cpp
+  layout.cpp
+C:\Project\KR_BINARY TREE\drawing_tree.h(2,10): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  main.cpp
+C:\Project\KR_BINARY TREE\layout.h(5,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Создание кода...
+C:\Project\KR_BINARY TREE\drawing_tree.h(2,10): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
